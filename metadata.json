@@ -1,0 +1,6 @@
+{
+  "name": "Voir Dire — Modern Learning Platform & Academic Integrity Shield",
+  "description": "Unified modern online learning platform with 6-digit exam join codes, client-side webcam face-presence proctoring, course & question studio, exportable CSV grades, and autonomous multi-source forensic academic integrity AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
